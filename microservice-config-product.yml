@@ -66,4 +66,4 @@ eureka:
     prefer-ip-address: true
 
 emp:
-  name: 代王
+  name: DaiOwen
