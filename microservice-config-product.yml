@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: prod # 激活开发环境配置
+    active:  # 激活开发环境配置
 ---
 server:
   port: 8001
